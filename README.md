@@ -14,11 +14,11 @@ The dashboard follows a storytelling approach, guiding stakeholders through mult
 ## Project Structure
 Corporate Financial Analysis – Performance & Risk Insights/
     
-**Visuals** # Screenshots 
-**Corporate Financial Analysis** - Performance & Risk Insights.pbix # Power BI Project File 
-**Project Report.pdf** # Detailed project documentation 
-**Raw_Dataset.xlsx** # Original financial data
-**README.md** # Instructions
+- **Visuals** # Screenshots 
+- **Corporate Financial Analysis** - Performance & Risk Insights.pbix # Power BI Project File 
+- **Project Report.pdf** # Detailed project documentation 
+- **Raw_Dataset.xlsx** # Original financial data
+- **README.md** # Instructions
 
 ---
 
